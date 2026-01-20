@@ -105,9 +105,10 @@ material and schedule for future meetings may change.</p>-->
 <table class="table calendar" cellspacing="0" cellpadding="6" width="100%">
  <thead>
   <tr>
-   <td width="26%">Monday</td><td width="16%">Tuesday</td>
-   <td width="26%">Wednesday</td><td width="16%">Thursday</td>
-   <td width="16%">Friday</td>
+   <td width="25%">Monday</td><td width="9%">Tuesday</td>
+   <td width="25%">Wednesday</td><td width="9%">Thursday</td>
+   <td width="9%">Friday</td> <td width="9%">Saturday</td>
+   <td width="14%">Friday</td>
    
   </tr>
  </thead>
