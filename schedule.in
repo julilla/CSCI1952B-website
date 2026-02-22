@@ -123,6 +123,9 @@ Feb 16, 2026
 - Holiday: Long Weekend
 #TUELEC = .
 
+Feb 23, 2026
+- Holiday: Snow day
+
 
 Mar 21, 2026 - Mar 29, 2026
 - Holiday: Spring Break
@@ -233,12 +236,6 @@ LEC
 - Prep: [https://bruknow.library.brown.edu/permalink/01BU_INST/9mvq88/alma991004754629706966 Pasquale, <i>The Black Box Society, </i>pp. 59-80, pp. 140-165]
 - Prep: [https://philpapers.org/archive/NGUTIS.pdf Nguyen, <i>Transparency is Surveillance</i>]
 
-LEC
-#Mon wk6
-- Lec: <b>Data and AI: fairness and justice</b>
-- Prep: Kent and Hoberman, <i>Data & Reality, </i> pp. 21-59 (Preface to 1st edition, chapters 1 & 2)
-- Prep: [https://aeon.co/essays/why-big-data-is-actually-small-personal-and-very-human Lemov, Big Data is People]
-- Prep: Anderson, <i>The End of Theory: The Data Deluge Makes the Scientific Method Obsolete</i>
 
 
 LEC
@@ -263,11 +260,12 @@ LEC
 - Prep: Bartmann, <i>The Ethics of AI-Powered Climate Nudging—How Much AI Should We Use to Save the Planet?</i>
 
 LEC
-#Mon wk8: flourishing, subjective or objective?
-- Lec: <b>Individuals: flourishing and the attention economy</b>
-- Prep: [https://aeon.co/essays/the-internet-as-an-engine-of-liberation-is-an-innocent-fraud Carr, <i>The World Wide Cage</i>]
-- Prep: Lyngs et al., <i>“So, Tell Me What Users Want, What They Really, Really Want!”</i>
-- Prep: Crawford, <i>The World Beyond Your Head: How to Flourish in an Age of Distraction,</i> chapter 10
+#Mon wk8 replacement for snow day
+- Lec: <b>Data and AI: fairness and justice</b>
+- Prep: Kent and Hoberman, <i>Data & Reality, </i> pp. 21-59 (Preface to 1st edition, chapters 1 & 2)
+- Prep: [https://aeon.co/essays/why-big-data-is-actually-small-personal-and-very-human Lemov, Big Data is People]
+- Prep: Anderson, <i>The End of Theory: The Data Deluge Makes the Scientific Method Obsolete</i>
+
 
 
 LEC
@@ -276,9 +274,14 @@ LEC
 - Prep: [https://bruknow.library.brown.edu/permalink/01BU_INST/9mvq88/alma991043573703006966 Williams, <i>Stand Out of Our Light, </i> (short) chapters 3, 4, 7, 8]
 
 LEC
-#Mon wk9
-- Lec: project research workshops
-- Prep: [https://aeon.co/essays/how-social-and-physical-technologies-collaborate-to-create Farmer et al., <i>Collaborators in Creation</i>]
+#Mon wk9: flourishing, subjective or objective?
+- Lec: <b>Individuals: flourishing and the attention economy</b>
+- Prep: [https://aeon.co/essays/the-internet-as-an-engine-of-liberation-is-an-innocent-fraud Carr, <i>The World Wide Cage</i>]
+- Prep: Lyngs et al., <i>“So, Tell Me What Users Want, What They Really, Really Want!”</i>
+- Prep: Crawford, <i>The World Beyond Your Head: How to Flourish in an Age of Distraction,</i> chapter 10
+
+#- Lec: project research workshops
+#- Prep: [https://aeon.co/essays/how-social-and-physical-technologies-collaborate-to-create Farmer et al., <i>Collaborators in Creation</i>]
 
 LEC
 #Wed wk9
@@ -367,7 +370,7 @@ Feb 23, 2026
 - Assign: Final Project
 
 Mar 6, 2026
-- Due: <b>Sunday,</b> March, 8: Project 3 (Implementation: HireSense)
+- Due: <b>Sunday,</b> March, 15: Project 3 (Implementation: HireSense)
 
 Mar 18, 2026
 - Assign: Project 4 (Agentic Coding)
